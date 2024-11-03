@@ -24,5 +24,8 @@
     <ClCompile Include="934_shortest_bridge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1_two_sum_optimized.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

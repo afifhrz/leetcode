@@ -18,13 +18,25 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1_two_sum.cpp">
+    <ClCompile Include="1_two-sum\1_two_sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="934_shortest_bridge.cpp">
+    <ClCompile Include="1_two-sum\1_two_sum_optimized.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1_two_sum_optimized.cpp">
+    <ClCompile Include="2_add_two_numbers\2_add_two_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_longest-substring\3_longest_substring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="934_shortest_bridge\934_shortest_bridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1091-shortest-binary-path\1091_shortest_binary_path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4_median_of_two_sorted_arrays\4_median_of_two_sorted_arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

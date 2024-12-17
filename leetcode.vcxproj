@@ -127,9 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1_two_sum.cpp" />
-    <ClCompile Include="1_two_sum_optimized.cpp" />
-    <ClCompile Include="934_shortest_bridge.cpp" />
+    <ClCompile Include="1091-shortest-binary-path\1091_shortest_binary_path.cpp" />
+    <ClCompile Include="1_two-sum\1_two_sum.cpp" />
+    <ClCompile Include="1_two-sum\1_two_sum_optimized.cpp" />
+    <ClCompile Include="2_add_two_numbers\2_add_two_numbers.cpp" />
+    <ClCompile Include="3_longest-substring\3_longest_substring.cpp" />
+    <ClCompile Include="4_median_of_two_sorted_arrays\4_median_of_two_sorted_arrays.cpp" />
+    <ClCompile Include="934_shortest_bridge\934_shortest_bridge.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

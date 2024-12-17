@@ -3,11 +3,11 @@
   <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
     <Filter Include="Header Files">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
     <Filter Include="Resource Files">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
@@ -15,28 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\..\1. Two Sum\1_two_sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1_two-sum\1_two_sum.cpp">
+    <ClCompile Include="..\..\1. Two Sum\1_two_sum_optimized.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1_two-sum\1_two_sum_optimized.cpp">
+    <ClCompile Include="..\..\1293. Shortest Path In A Grid\1293_shortest_path_in_a_grid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_add_two_numbers\2_add_two_numbers.cpp">
+    <ClCompile Include="..\..\4. Median of Two Sorted Arrays\4_median_of_two_sorted_arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3_longest-substring\3_longest_substring.cpp">
+    <ClCompile Include="..\..\1091. Shortest Binary Path\1091_shortest_binary_path.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="934_shortest_bridge\934_shortest_bridge.cpp">
+    <ClCompile Include="..\..\934. Shortest Bridge\934_shortest_bridge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1091-shortest-binary-path\1091_shortest_binary_path.cpp">
+    <ClCompile Include="..\..\3. Longest Substring\3_longest_substring.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4_median_of_two_sorted_arrays\4_median_of_two_sorted_arrays.cpp">
+    <ClCompile Include="..\..\2. Add Two Numbers\2_add_two_numbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,3 +1,8 @@
+#include<vector>
+#include<queue>
+#include<array>
+using namespace std;
+
 int n, m;
 vector<int> dist[100005];
 priority_queue<array<int,3>, vector<array<int,3>>, greater<array<int,3>>> pq; //cost, r,c

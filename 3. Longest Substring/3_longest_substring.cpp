@@ -1,5 +1,7 @@
+#define NOMINMAX
+#define max(a,b)            (((a) > (b)) ? (a) : (b))
+
 #include <string>
-#include <vector>
 #include <unordered_set>
 using namespace std;
 

@@ -51,5 +51,29 @@
     <ClCompile Include="..\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\2577. Minimum Time to Visit a Cell In a Grid\2577_minimum_time_to_visit_a_cell_in_a_grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\28. Find The Index of the First Occurance in String\28_find_the_index_of_the_first_occurence_in_a_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\35. Search Insert Position\35_search_insert_position.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\58. Length of Last Word\58_length_of_last_word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\733. Flood Fill\733_flood_fill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1346. Check If N and Its Double Exist\1346_check_if_n_and_its_double_exist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1742. Maximum Number of a Balls in a Box\1742_maximum_number_of_a_balls_in_a_box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\27. Remove Element\27_remove_element.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

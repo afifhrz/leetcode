@@ -22,32 +22,32 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{D005599E-F75D-4F44-8E53-6D2DFA68D6F2}</ProjectGuid>
     <RootNamespace>leetcodes</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
@@ -128,6 +128,7 @@
     <ClCompile Include="..\..\1091. Shortest Binary Path\1091_shortest_binary_path.cpp" />
     <ClCompile Include="..\..\1293. Shortest Path In A Grid\1293_shortest_path_in_a_grid.cpp" />
     <ClCompile Include="..\..\1346. Check If N and Its Double Exist\1346_check_if_n_and_its_double_exist.cpp" />
+    <ClCompile Include="..\..\17. Letter Combinations of a Phone Number\17_letter_combinations_of_a_phone_number.cpp" />
     <ClCompile Include="..\..\1742. Maximum Number of a Balls in a Box\1742_maximum_number_of_a_balls_in_a_box.cpp" />
     <ClCompile Include="..\..\1769. Minimum Number of Operations to Move All Balls to Each Box\1769_minimum_number_of_operations_to_move_all_balls_to_each_box.cpp" />
     <ClCompile Include="..\..\2. Add Two Numbers\2_add_two_numbers.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="..\..\27. Remove Element\27_remove_element.cpp" />
     <ClCompile Include="..\..\28. Find The Index of the First Occurance in String\28_find_the_index_of_the_first_occurence_in_a_string.cpp" />
     <ClCompile Include="..\..\3. Longest Substring\3_longest_substring.cpp" />
+    <ClCompile Include="..\..\34. Find First and Last Position of Element in Sorted Array\34_find_first_and_last_position_of_element_in_sorted_array.cpp" />
     <ClCompile Include="..\..\35. Search Insert Position\35_search_insert_position.cpp" />
     <ClCompile Include="..\..\4. Median of Two Sorted Arrays\4_median_of_two_sorted_arrays.cpp" />
     <ClCompile Include="..\..\58. Length of Last Word\58_length_of_last_word.cpp" />

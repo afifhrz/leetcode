@@ -141,6 +141,7 @@
     <ClCompile Include="..\..\28. Find The Index of the First Occurance in String\28_find_the_index_of_the_first_occurence_in_a_string.cpp" />
     <ClCompile Include="..\..\3. Longest Substring\3_longest_substring.cpp" />
     <ClCompile Include="..\..\34. Find First and Last Position of Element in Sorted Array\34_find_first_and_last_position_of_element_in_sorted_array.cpp" />
+    <ClCompile Include="..\..\3433. Count Mentions Per User\3433_count_mentions_per_user.cpp" />
     <ClCompile Include="..\..\35. Search Insert Position\35_search_insert_position.cpp" />
     <ClCompile Include="..\..\4. Median of Two Sorted Arrays\4_median_of_two_sorted_arrays.cpp" />
     <ClCompile Include="..\..\58. Length of Last Word\58_length_of_last_word.cpp" />

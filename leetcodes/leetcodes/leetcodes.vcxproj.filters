@@ -90,5 +90,8 @@
     <ClCompile Include="..\..\199. Binary Tree Right Side View\199_binary_tree_right_side_view.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\3433. Count Mentions Per User\3433_count_mentions_per_user.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

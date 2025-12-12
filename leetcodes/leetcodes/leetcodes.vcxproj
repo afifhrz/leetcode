@@ -131,6 +131,7 @@
     <ClCompile Include="..\..\17. Letter Combinations of a Phone Number\17_letter_combinations_of_a_phone_number.cpp" />
     <ClCompile Include="..\..\1742. Maximum Number of a Balls in a Box\1742_maximum_number_of_a_balls_in_a_box.cpp" />
     <ClCompile Include="..\..\1769. Minimum Number of Operations to Move All Balls to Each Box\1769_minimum_number_of_operations_to_move_all_balls_to_each_box.cpp" />
+    <ClCompile Include="..\..\199. Binary Tree Right Side View\199_binary_tree_right_side_view.cpp" />
     <ClCompile Include="..\..\2. Add Two Numbers\2_add_two_numbers.cpp" />
     <ClCompile Include="..\..\21. Merge Two Sorted List\21_merge_two_sorted_list.cpp" />
     <ClCompile Include="..\..\2381. Shifting Letters II\2381_shifting_letters_II.cpp" />

@@ -81,5 +81,14 @@
     <ClCompile Include="..\..\1769. Minimum Number of Operations to Move All Balls to Each Box\1769_minimum_number_of_operations_to_move_all_balls_to_each_box.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\17. Letter Combinations of a Phone Number\17_letter_combinations_of_a_phone_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\34. Find First and Last Position of Element in Sorted Array\34_find_first_and_last_position_of_element_in_sorted_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\199. Binary Tree Right Side View\199_binary_tree_right_side_view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
